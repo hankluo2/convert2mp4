@@ -6,6 +6,6 @@ OS: Ubuntu
 
 ffmpeg: `sudo apt install ffmpeg`
 
-### Usage
-In function `convert_to_mp4(video_file, out_dir)`, `video_file` is a str to src video, while out_dir is the output mp4 directory.
+### Comments
+In function `convert_to_mp4(video_file, out_dir)`, `video_file` is a str to src video, while `out_dir` is the output mp4 directory.
 The output video name is kept the same as the source video.
